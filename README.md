@@ -63,7 +63,7 @@ Soon you will find here, for example:
 
 ## 📫 Contact
 
-- LinkedIn: *add your LinkedIn link here*  
-- Email: *add your email here*  
+- LinkedIn: https://www.linkedin.com/in/pawe%C5%82-mielnik-85625b368/ 
+- Email: pawel.mielnik02@gmail.com 
 
 If my profile looks interesting to you, feel free to reach out or open an issue in one of my repos 🙂
