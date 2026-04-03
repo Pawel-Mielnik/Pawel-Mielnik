@@ -1,11 +1,11 @@
-# Hi, I'm Paweł 👋
+# Hi, I'm Paweł
 
 Junior **Data Scientist** with a cybersecurity background, currently transitioning from security into data-driven problem solving.  
 I enjoy turning raw data into clear insights, practical tools and visual stories.
 
 ---
 
-## 🎓 Education
+##  Education
 
 - B.Eng. in Cybersecurity – Gdynia 
 - M.Sc. in Data Analysis & Digital Forensics (in progress)  
@@ -14,7 +14,7 @@ This mix gives me a strong understanding of both **data** and **security / incid
 
 ---
 
-## 📈 What I'm focusing on now
+##  What I'm focusing on now
 
 - Building solid foundations in **statistics, machine learning and data visualization**  
 - Applying data analysis to **security-related data** (logs, alerts, network events)  
@@ -24,7 +24,7 @@ This mix gives me a strong understanding of both **data** and **security / incid
 
 ---
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Languages:**  
 Python (pandas, NumPy, scikit-learn, matplotlib / seaborn), SQL, Bash  
@@ -40,7 +40,7 @@ Git & GitHub, Jupyter Notebook, VS Code
 
 ---
 
-## 🚀 Projects (portfolio in progress)
+##  Projects (portfolio in progress)
 
 I am actively working on small, focused projects to build my **data science** and **security analytics** portfolio.  
 Soon you will find here, for example:
@@ -53,7 +53,7 @@ Soon you will find here, for example:
 
 ---
 
-## 🔍 What I’m looking for
+##  What I’m looking for
 
 - Opportunities to grow as a **Junior Data Scientist**  
 - Roles or projects where I can combine **data science and cybersecurity**  
@@ -61,7 +61,7 @@ Soon you will find here, for example:
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - LinkedIn: https://www.linkedin.com/in/pawe%C5%82-mielnik-85625b368/ 
 - Email: pawel.mielnik02@gmail.com 
