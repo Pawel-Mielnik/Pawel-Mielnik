@@ -7,7 +7,7 @@ I enjoy turning raw data into clear insights, practical tools and visual stories
 
 ##  Education
 
-- B.Eng. in Cybersecurity – Gdynia 
+- BSc. in Cybersecurity – Gdynia 
 - M.Sc. in Data Analysis & Digital Forensics (in progress)  
 
 This mix gives me a strong understanding of both **data** and **security / incident response** domains.
