@@ -1,69 +1,52 @@
 # Hi, I'm Paweł
 
-Junior **Data Scientist** with a cybersecurity background, currently transitioning from security into data-driven problem solving.  
-I enjoy turning raw data into clear insights, practical tools and visual stories.
+**Junior Data Analyst with a cybersecurity background.**
+I like finding out what data really says: turning messy datasets into clear answers and explaining them in plain language.
+
+Security taught me how to work with data: look for anomalies, question the source, and check before you trust.
 
 ---
 
-##  Education
+## Education
 
-- BSc. in Cybersecurity – Gdynia 
-- M.Sc. in Data Analysis & Digital Forensics (in progress)  
-
-This mix gives me a strong understanding of both **data** and **security / incident response** domains.
-
----
-
-##  What I'm focusing on now
-
-- Building solid foundations in **statistics, machine learning and data visualization**  
-- Applying data analysis to **security-related data** (logs, alerts, network events)  
-- Improving my skills on **DataCamp** and through private projects I code in my free time  
-- Preparing a portfolio that shows how I think, analyze and communicate results
-- Practicing on Kaggle – working through notebooks and competitions to improve my end‑to‑end workflow (from data cleaning to model evaluation).
+- **Postgraduate studies – Data Analysis / Data Science** (in progress)
+- **M.Sc. – Data Analysis & Digital Forensics** (2026)
+  - Thesis project: a log-correlation tool for digital forensics (a simple SIEM prototype)
+- **B.Sc. – Cybersecurity**, Gdynia
 
 ---
 
-##  Tech stack
+## What I work with
 
-**Languages:**  
-Python (pandas, NumPy, scikit-learn, matplotlib / seaborn), SQL, Bash  
-
-**Data & ML:**  
-Exploratory Data Analysis, feature engineering, classical ML models, data cleaning, visual storytelling  
-
-**Security-related tools:**  
-Linux, basic scripting for security automation, Wireshark, log analysis basics  
-
-**Other:**  
-Git & GitHub, Jupyter Notebook, VS Code
+- **Data analysis:** Excel (PivotTables, lookups, data cleaning), SQL, Python (pandas, NumPy, Matplotlib)
+- **Security:** Linux, Bash, Wireshark, log analysis and event correlation
+- **Workflow:** Git & GitHub, Jupyter Notebook, VS Code
+- **Currently learning:** Power BI, Tableau, statistics for data analysis
 
 ---
 
-##  Projects (portfolio in progress)
+## Portfolio
 
-I am actively working on small, focused projects to build my **data science** and **security analytics** portfolio.  
-Soon you will find here, for example:
+My projects are grouped into three areas:
 
-- Notebooks with **exploratory analysis** of real-world datasets  
-- Simple **ML models** solving practical problems  
-- Scripts and notebooks for **log / security events analysis**  
+- **Business analytics** – classic analyses of business data: sales, customers, HR.
+- **Security analytics** – log analysis, anomaly detection and fraud detection. This is where my cybersecurity background gives me an edge.
+- **Passion projects** – analyses I do simply because I enjoy them: games, sport, world politics and markets.
 
-(Links to specific repositories will appear here as projects are published.)
-
----
-
-##  What I’m looking for
-
-- Opportunities to grow as a **Junior Data Scientist**  
-- Roles or projects where I can combine **data science and cybersecurity**  
-- Teams that value learning, code review and clear communication  
+<!-- Featured projects: add the top 3 here with a screenshot, one sentence and a link -->
 
 ---
 
-##  Contact
+## What I'm looking for
 
-- LinkedIn: https://www.linkedin.com/in/pawe%C5%82-mielnik-85625b368/ 
-- Email: pawel.mielnik02@gmail.com 
+- A **Junior Data Analyst** role where I can grow fast and learn from experienced people
+- Especially teams where data meets security: log analytics, fraud or anomaly detection
+- A culture of feedback, code review and clear communication
 
-If my profile looks interesting to you, feel free to reach out or open an issue in one of my repos 🙂
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/pawe%C5%82-mielnik-85625b368/
+- Kaggle: https://www.kaggle.com/pawelmielnik13
+- Email: pawel.mielnik02@gmail.com
